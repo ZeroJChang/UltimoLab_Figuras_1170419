@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  TrianguloRecto.cpp
+  Generando código...
+C:\Users\ZeroJChang\source\repos\UltimoLab_DeLeonChang_1170419\UltimoLab_DeLeonChang_1170419\MyForm.h(352,69): warning C4244:  'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  AreasyPerimetros.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  UltimoLab_DeLeonChang_1170419.vcxproj -> C:\Users\ZeroJChang\source\repos\UltimoLab_DeLeonChang_1170419\Debug\UltimoLab_DeLeonChang_1170419.exe
